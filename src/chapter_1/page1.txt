@@ -1,0 +1,5 @@
+Lorem ipsum
+
+Some words about Git and GitHub
+
+This is a sample file...
